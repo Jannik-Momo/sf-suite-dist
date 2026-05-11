@@ -1,0 +1,10 @@
+# NIEMALS .pem committen — das ist der Identity-Key der Extension
+*.pem
+
+# OS-Stuff
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
