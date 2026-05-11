@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='uyrpebuzbxqwzzbbtucsqwdsyubqtqtv'>
     <updatecheck
-      codebase='https://jannik-momo.github.io/sf-suite-dist/getmomo-sf-suite-v1.0.2.crx'
-      version='1.0.2' />
+      codebase='https://jannik-momo.github.io/sf-suite-dist/getmomo-sf-suite-v1.0.3.crx'
+      version='1.0.3' />
   </app>
 </gupdate>
